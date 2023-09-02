@@ -1,2 +1,2 @@
 # CODESOFT
-<cd>internship tasks
+<cd>internship tasks 1,2,4
